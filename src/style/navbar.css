@@ -1,0 +1,11 @@
+.navbar-body{
+    display: flex;
+    justify-content: right;
+    list-style-type: none;
+    background-color: blue;
+}
+
+.navbar-item{
+    padding: 10px;
+    background-color: red;
+}
