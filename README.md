@@ -2,8 +2,8 @@
 
 ## What´s coming up?
 
-Personal playground for React.
-I thought it´s could serve some fundamentals for your project so im sharing my progress 
+Personal playground for React.  
+I thought it could serve some fundamentals for your project so im sharing my progress 
 
 ## Goals
 
@@ -15,7 +15,7 @@ Components for different uses, if needed I can add some description for each Com
 | Contact    | not started yet |
 | About      | not started yet |
 
-Features (Animations and stuff like this)
+Features (Animations and stuff like that)
 
 | Feature        | current State   |
 |----------------|-----------------|
